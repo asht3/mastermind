@@ -1,4 +1,4 @@
-#include "my_mastermind.h"
+#include "../include/my_mastermind.h"
 
 int main(int argc, char* argv[]) {
     GameState game;

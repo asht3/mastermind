@@ -1,4 +1,4 @@
-#include "my_mastermind.h"
+#include "../include/my_mastermind.h"
 
 void initialize_game(GameState* game, int argc, char* argv[]) {
     if (argc > 1) {

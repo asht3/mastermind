@@ -1,4 +1,4 @@
-#include "my_mastermind.h"
+#include "../include/my_mastermind.h"
 
 void set_random_code(GameState* game) {
     srand(time(NULL));
