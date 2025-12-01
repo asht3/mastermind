@@ -36,7 +36,7 @@ The number of misplaced pieces is checked using a similar method as well placed 
 ## Installation
 You can clone the project repository from GitHub using the following command:
 ```
-git clone https://github.com/atay3/my_mastermind.git
+git clone https://github.com/asht3/my_mastermind.git
 ```
 
 Users can compile the program using the provided Makefile. Once the repository is cloned, navigate to the project directory and run the following command:
